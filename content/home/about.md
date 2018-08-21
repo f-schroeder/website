@@ -30,4 +30,4 @@ weight = 5
 
 # Biography
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. 
+Hi! I'm Felix. Currently I am studying Computational Visualistics at the University of Koblenz (Germany). The main topics of my work is computer graphics. I'm a proficient OpenGL and C++ user and developing new photorealistic real-time rendering techniques for rasterization and ray-tracing. I'm very familiar with modern OpenGL/GLSL (including AZDO and DSA), C++17, GPGPU and Vulkan as well as computer vision. Just take a look at my personal projects to get an impression!
