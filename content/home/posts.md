@@ -24,6 +24,7 @@ count = 5
 #   0 = Simple
 #   1 = Detailed
 list_format = 1
+
 +++
 
-Coming soon™...
+<a class="twitter-timeline" href="https://twitter.com/flx_schroeder?ref_src=twsrc%5Etfw">Tweets by flx_schroeder</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
