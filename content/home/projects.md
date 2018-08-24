@@ -68,7 +68,7 @@ ___
 <p>
 
 We implemented the frustum-aligned voxel-grid based volumetric lighting algorithm presented by Bartlomiej Wronski in ["Volumetric Fog and Lighting"](https://books.google.com/books?hl=en&lr=&id=30ZOCgAAQBAJ&oi=fnd&pg=PA217&dq=gpu+pro+6+volumetric+wronski&ots=2ZfubWDDFI&sig=P611iciYxczkBTD5LDngvBYPN10) (GPU Pro 6).
-We used OpenGL 4.6 and C++17 and our team consisted of Maximilian Mader ([@maxesstuff](https://twitter.com/maxesstuff)) and Darius Thies.
+We used OpenGL 4.6 and C++17 and our team consisted of Maximilian Mader ([@maxesstuff](https://twitter.com/maxesstuff)), Darius Thies and me.
 
 The code can be found here: https://github.com/Max1412/Graphics2
 

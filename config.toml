@@ -288,13 +288,13 @@ enableGitInfo = false
   weight = 3
 
 [[menu.main]]
-  name = "Posts"
-  url = "#posts"
+  name = "Résumé"
+  url = "#resume"
   weight = 4
 
 [[menu.main]]
-  name = "Résumé"
-  url = "#resume"
+  name = "Posts"
+  url = "#posts"
   weight = 5
 
 [[menu.main]]
