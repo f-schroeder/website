@@ -50,7 +50,7 @@ filter_default = 0
 <p>
 
 This is my most recent framework for personal projects and quick and easy development of OpenGL based applications.
-It uses modern C++17, OpenGL 4.6 and a GPU-driven rendering pipeline including [AZDO](https://www.slideshare.net/CassEveritt/approaching-zero-driver-overhead), [DSA](https://www.khronos.org/opengl/wiki/Direct_State_Access), [bindless textures](https://www.khronos.org/opengl/wiki/Bindless_Texture) and [indirect multi-draw](https://www.khronos.org/opengl/wiki/Vertex_Rendering#Indirect_rendering) calls. It also automatically performs GPU-view-frustum-culling and contains a fast model-loader and PBR-shading.
+It uses modern C++17, OpenGL 4.6 and a GPU-driven rendering pipeline including [AZDO](https://www.slideshare.net/CassEveritt/approaching-zero-driver-overhead), [DSA](https://www.khronos.org/opengl/wiki/Direct_State_Access), [bindless textures](https://www.khronos.org/opengl/wiki/Bindless_Texture) and [indirect multi-draw](https://www.khronos.org/opengl/wiki/Vertex_Rendering#Indirect_rendering) calls. It also automatically performs GPU-view-frustum-culling and contains a fast model-loader, PBR-shading and various other real-time rendering techniques.
 
 You can take a look at the code here: https://github.com/f-schroeder/orvis
 
@@ -77,6 +77,24 @@ The code can be found here: https://github.com/Max1412/Graphics2
 
 ___
 
+## Acceleration data structures for real-time ray-tracing
+#### Line Space, BVH and Octree
+
+![](img/ls_shafts.png)
+
+<details>
+<p>
+
+Together with Kevin Keul, Tilman Koß and Stefan Müller I worked on research and development of new GPU-based data structures to accelerate GPU-ray-tracing.
+This includes the development of the new Line Space data structure as well as research in bounding volume hierarchies, recursive grids and sparse voxel octrees (all of them on the GPU).
+
+Here is the code (although rather poorly documented): https://gitlab.uni-koblenz.de/fschroeder/CGF
+
+</p>
+</details>
+
+___
+
 ## DINO
 #### Ray-Tracing framework for distance fields and implicit surfaces
 
@@ -89,7 +107,7 @@ DINO was developed by me and 12 other students in an internship at the Universit
 It renders distance fields and implicit surfaces in real-time and is also able to discretize triangle meshes to SDFs.
 Rendering is done using OpenGL and the framework is implemented in C++17.
 
-https://gitlab.uni-koblenz.de/CVFP_DF18/Framework
+https://gitlab.uni-koblenz.de/CVFP_DF18/Framework (public access is coming soon™)
 
 </p>
 </details>

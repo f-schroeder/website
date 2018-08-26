@@ -61,7 +61,7 @@ The main topic of my work is computer graphics. I am especially focused on devel
 I am supporting Prof. Dr. Müller at the University of Koblenz with his research on the Line Space datastructure for fast and efficient GPU ray tracing. 
 This also includes research in BVHs, two-level datastructures, recursive grids and octrees.
 
-Please also refer to my personal projects on [GitHub](https://github.com/f-schroeder).
+Please also refer to my personal projects above and on [GitHub](https://github.com/f-schroeder).
 
 ___
 
