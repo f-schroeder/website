@@ -183,7 +183,8 @@ enableGitInfo = false
     'Report',  # 4
     'Book',  # 5
     'Book section',  # 6
-    'Thesis' # 7
+    'Thesis', # 7
+    'Seminar', # 8
   ]
 
   # Configuration of talk pages.
@@ -284,7 +285,7 @@ enableGitInfo = false
 
 [[menu.main]]
   name = "Publications"
-  url = "#publications"
+  url = "#publications_selected"
   weight = 3
 
 [[menu.main]]

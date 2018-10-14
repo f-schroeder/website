@@ -2,7 +2,7 @@
 # Recent Publications widget.
 # This widget displays recent publications from `content/publication/`.
 widget = "publications"
-active = true
+active = false
 date = 2018-08-15T00:00:00
 
 title = "Publications"
@@ -36,7 +36,7 @@ publication_type = "-1"
 exclude_selected = false
 +++
 
-## Global Illumination using GPU Path Tracing and the Line Space datastructure</h2>
+## Global Illumination using GPU Path Tracing and the Line Space datastructure
 #### Bachelor Thesis
 
 ![](img/ba_thesis.jpg)

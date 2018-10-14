@@ -3,14 +3,14 @@
 # This widget displays publications from `content/publication/` which have
 # `selected = true` in their `+++` front matter.
 widget = "publications_selected"
-active = false
+active = true
 date = 2018-08-15T00:00:00
 
-title = "Selected Publications"
+title = "Publications"
 subtitle = ""
 
 # Order that this section will appear in.
-weight = 10
+weight = 20
 
 # List format.
 #   0 = Simple
