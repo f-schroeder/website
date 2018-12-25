@@ -24,7 +24,8 @@ weight = 50
 
 - University of Koblenz (Germany)
 - Computer Science with focus on Computer Graphics and Computer Vision
-- Current grade point average: 1.2 ([ECTS](https://en.wikipedia.org/wiki/ECTS_grading_scale) grade A)
+- Development languages: C++, GLSL, Java, Python, Matlab
+- Current grade point average: 1.1 ([ECTS](https://en.wikipedia.org/wiki/ECTS_grading_scale) grade A)
 
 #### Oct. 2013 - Mar. 2017: Bachelor of Science in Computational Visualistics
 
@@ -46,7 +47,7 @@ ___
 
 #### CV-Award 2017: 1st price
 
-- Bacelor Thesis on Global Illumination using GPU Path Tracing and the Line Space datastructure
+- Bacelor Thesis on Global Illumination using GPU Path Tracing and the Line Space data structure
 
 #### CV-Award 2016: 3rd price
 
@@ -58,8 +59,8 @@ ___
 
 The main topic of my work is computer graphics. I am especially focused on developing new photorealistic and real-time rendering techniques.
 
-As a student assistant I am supporting Prof. Dr. Müller and Kevin Keul at the University of Koblenz with their research on the Line Space datastructure for fast and efficient GPU ray tracing. 
-This also includes research in BVHs, two-level datastructures, recursive grids and octrees.
+As a student assistant I am supporting Prof. Dr. Müller and Kevin Keul at the University of Koblenz with their research on the Line Space data structure for fast and efficient GPU ray tracing. 
+This also includes research in BVHs, two-level data structures, recursive grids and octrees.
 
 Please also refer to my personal projects above and on [GitHub](https://github.com/f-schroeder).
 
@@ -69,25 +70,15 @@ ___
 
 #### Object-oriented programming
 
-- Modern C++17
-- C# (.NET Framework and .NET Core)
-- Java
-
-#### Shader programming
-
-- GLSL
-- C for Graphics (Cg)
+- Modern C++17, C# and Java
 
 #### Application programming interfaces (APIs)
 
-- OpenGL 4 (including AZDO, DSA and GPGPU with compute)
-- CUDA
-- Vulkan
+- OpenGL, OpenCV, CUDA and Vulkan
 
 #### Game engines
 
-- Unreal Engine 4
-- Unity Engine
+- Unreal Engine and Unity Engine
 
 #### Other
 

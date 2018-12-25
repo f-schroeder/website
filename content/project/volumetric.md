@@ -9,7 +9,7 @@ title = "Volumetric Lighting"
 summary = "<b>Froxel-based real-time volumetric fog</b> <br>We implemented the frustum-aligned voxel-grid based volumetric lighting algorithm presented by Bartlomiej Wronski in <a href=\"https://books.google.com/books?hl=en&lr=&id=30ZOCgAAQBAJ&oi=fnd&pg=PA217&dq=gpu+pro+6+volumetric+wronski&ots=2ZfubWDDFI&sig=P611iciYxczkBTD5LDngvBYPN10\">Volumetric Fog and Lighting</a> (GPU Pro 6). We used OpenGL 4.6 and C++17 and our team consisted of Maximilian Mader (<a href=\"https://twitter.com/maxesstuff\">@maxesstuff</a>), Darius Thies and me."
 
 # Optional image to display on homepage (relative to `static/img/` folder).
-image_preview = "volumetric.jpg"
+image_preview = "volumetric.gif"
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
