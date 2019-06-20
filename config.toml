@@ -58,7 +58,7 @@ enableGitInfo = false
 
   # Your details.
   name = "Felix Schröder"
-  role = "MSc student in Computational Visualistics"
+  role = "Master of Science in Computational Visualistics"
 
   # Organizations/Affiliations.
   #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
@@ -66,7 +66,7 @@ enableGitInfo = false
 
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
   avatar = "portrait.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
-  email = "fschroeder [at] uni-koblenz.de"
+  email = "felix1994leon [at] yahoo.de"
   address = "Koblenz, Germany"
   office_hours = ""
   phone = ""
@@ -231,7 +231,7 @@ enableGitInfo = false
   [[params.social]]
     icon = "envelope"
     icon_pack = "fa"
-    link = "mailto:fschroeder@uni-koblenz.de"
+    link = "mailto:felix1994leon@yahoo.de"
 
   [[params.social]]
     icon = "twitter"

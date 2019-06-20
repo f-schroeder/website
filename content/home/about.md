@@ -30,4 +30,4 @@ weight = 5
 
 # Biography
 
-Hi! I'm Felix. Currently I am working on my master thesis in Computational Visualistics at the University of Koblenz (Germany). The main topics of my work is computer graphics. I'm a proficient OpenGL and C++17 user and developing new photorealistic real-time rendering techniques for rasterization and ray-tracing. I'm also very familiar with Java, C# and Vulkan as well as computer vision and OpenCV. Just take a look at my personal projects to get an impression!
+Hi! I'm Felix. Recently I finished my master thesis in Computational Visualistics at the University of Koblenz (Germany). The main topics of my work is computer graphics. I'm a proficient OpenGL and C++17 user and developing new photorealistic real-time rendering techniques for rasterization and ray-tracing. I'm also very familiar with Java, C# and Vulkan as well as computer vision and OpenCV. <br> Just take a look at my projects to get an impression!

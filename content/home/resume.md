@@ -20,12 +20,12 @@ weight = 50
 +++
 
 ## Education
-#### Since April 2017: Master of Science in [Computational Visualistics](https://www.uni-koblenz-landau.de/en/campus-koblenz/fb4/icv/)
+#### Apr. 2017 - Jun. 2019: Master of Science in [Computational Visualistics](https://www.uni-koblenz-landau.de/en/campus-koblenz/fb4/icv/)
 
 - University of Koblenz (Germany)
 - Computer Science with focus on Computer Graphics and Computer Vision
 - Development languages: C++, GLSL, Java, Python, Matlab
-- Current grade point average: 1.1 ([ECTS](https://en.wikipedia.org/wiki/ECTS_grading_scale) grade A)
+- Grade point average: 1.1 ([ECTS](https://en.wikipedia.org/wiki/ECTS_grading_scale) grade A)
 
 #### Oct. 2013 - Mar. 2017: Bachelor of Science in Computational Visualistics
 
@@ -63,6 +63,8 @@ As a student assistant I am supporting Prof. Dr. Müller and Kevin Keul at the U
 This also includes research in BVHs, two-level data structures, recursive grids and octrees.
 
 Please also refer to my personal projects above and on [GitHub](https://github.com/f-schroeder).
+
+If you prefer to get my full CV as PDF-document, just send me an e-mail.
 
 ___
 
