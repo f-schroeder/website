@@ -24,7 +24,7 @@ weight = 50
 
 - University of Koblenz (Germany)
 - Computer Science with focus on Computer Graphics and Computer Vision
-- Development languages: C++, GLSL, Java, Python, Matlab
+- Development languages: C++, GLSL, C#, Java, Python, Matlab
 - Grade point average: 1.1 ([ECTS](https://en.wikipedia.org/wiki/ECTS_grading_scale) grade A)
 
 #### Oct. 2013 - Mar. 2017: Bachelor of Science in Computational Visualistics
@@ -45,11 +45,23 @@ ___
 
 ## Awards
 
-#### CV-Award 2017: 1st price
+#### CV-Award 2019: 1st prize (jury)
+
+- Master Thesis: Gonioreflectometer for material and 3D scans
+
+#### CV-Award 2019: 1st prize (audience)
+
+- Master Thesis: Gonioreflectometer for material and 3D scans
+
+#### CV-Award 2019: 3rd prize
+
+- DINO: Framework for distance fields and implicit surfaces
+
+#### CV-Award 2017: 1st prize
 
 - Bacelor Thesis on Global Illumination using GPU Path Tracing and the Line Space data structure
 
-#### CV-Award 2016: 3rd price
+#### CV-Award 2016: 3rd prize
 
 - PC-Game "OneHit"
 
@@ -64,7 +76,7 @@ This also includes research in BVHs, two-level data structures, recursive grids 
 
 Please also refer to my personal projects above and on [GitHub](https://github.com/f-schroeder).
 
-If you prefer to get my full CV as PDF-document, just send me an e-mail.
+If you prefer to get my full CV as PDF document, just send me an e-mail.
 
 ___
 

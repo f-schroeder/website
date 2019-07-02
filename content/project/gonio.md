@@ -6,7 +6,7 @@ date = 2018-12-25T00:00:00
 title = "Master Thesis"
 
 # Project summary to display on homepage.
-summary = "<b>Construction of a gonioreflectometer to capture and render BRDFs</b> <br>I constructed a gonioreflectometer using microcontrollers (Arduino) and stepper motors with code written in Java using OpenCV. With this device, BRDFs of arbitrary materials can be captured. This project also includes rendering the captured BRDFs using C++ and OpenGL. Furthermore one can capture and render light fields, light stages and 3D-Scans without modifying the device."
+summary = "<b>Construction of a gonioreflectometer to capture and render BRDFs</b> <br>I constructed a gonioreflectometer using microcontrollers (Arduino) and stepper motors with code written in Java using OpenCV. With this device, BRDFs of arbitrary materials can be captured. This project also includes rendering the captured BRDFs using C++ and OpenGL. Furthermore one can capture and render light fields, light stages and 3D-Scans without modifying the device. <br> For this work I received the *first audience-prize and the first jury-prize of the CV-Award 2019* at the University of Koblenz."
 
 # Optional image to display on homepage (relative to `static/img/` folder).
 image_preview = "gonio2.gif"
